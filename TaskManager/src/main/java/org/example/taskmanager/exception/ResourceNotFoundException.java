@@ -1,4 +1,4 @@
-package org.example.taskmanager;
+package org.example.taskmanager.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {
