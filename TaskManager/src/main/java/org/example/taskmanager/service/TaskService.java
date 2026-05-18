@@ -1,4 +1,4 @@
-package org.example.taskmanager;
+package org.example.taskmanager.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
